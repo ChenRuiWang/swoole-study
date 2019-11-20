@@ -1,0 +1,11 @@
+{
+    "name": "randychan/swoole",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+
+    },
+    "require-dev": {
+        "swoft/swoole-ide-helper": "^4.4"
+    }
+}
